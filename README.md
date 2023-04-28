@@ -13,6 +13,4 @@
 * Now Go to ./Reports/{latest date and time}
 * Refer you report corresponding to each URL
 
-
-
-
+Code updated from https://github.com/akagupta9/lighthouse-wrapper
