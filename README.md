@@ -1,3 +1,6 @@
+#### Node 16.20.0 is a pre-requisite on which this code works well. On other node versions, it might fail. ####
+#### If you have multiple node versions, try managing using NVM ####
+
 #### LightHouse Performance testing automation ####
 * You can use this for running LightHouse Performance testing automation
 
